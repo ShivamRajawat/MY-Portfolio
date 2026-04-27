@@ -1,18 +1,18 @@
-/* Reset */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Navbar */
+/* Navbar  maine container yai */
 nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 15px 50px;
   background-image: linear-gradient(to right, #f0f0f0, rgb(46, 46, 108));
-  flex-wrap: wrap; /* 🔥 allows wrapping on small screens */
+  flex-wrap: wrap; 
 }
 
 /* Logo */
